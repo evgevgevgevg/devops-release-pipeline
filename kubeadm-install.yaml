@@ -41,3 +41,4 @@
             shell: kubectl taint nodes --all node-role.kubernetes.io/master- --kubeconfig=/home/ubuntu/.kube/config
 
 
+ 
